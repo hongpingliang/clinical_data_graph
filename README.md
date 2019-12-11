@@ -5,7 +5,8 @@ This is repository for the Medium article:
 
 The article descrie the steps to store and visualize some public clinical data from Personal Genome Project
 
-![alt text](https://raw.githubusercontent.com/hongpingliang/gene_graph/master/img/sample_data.png "Gene Graph")
+
+![alt text](https://github.com/hongpingliang/clinical_data_graph/blob/master/img/screenshot.png?raw=true "Gene Graph")
 
 
 
